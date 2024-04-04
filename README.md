@@ -1,2 +1,2 @@
 # CSE110 LAB1
-Java
+My favorite coding langauge is Java.
