@@ -1,5 +1,5 @@
 # I am as a programmer and as a person
-My name is _Yi-Chan Chiu_, a fourth-year Computer Engineering student. This is my [instagram](https://www.instagram.com/fc_chiu1113/). In my junior high school period, I wanted to become a [hacker](picture.md) As a programmer, I think there are some skills that I have and some skills I need to learn.
+My name is _Yi-Chan Chiu_, a fourth-year Computer Engineering student. This is my [instagram](https://www.instagram.com/fc_chiu1113/). In my junior high school period, I wanted to become a [hacker](picture.md) since I thought that hacker is so smart such that we can do almost anything on Internet as what movies presented. However, as a programmer, I think there are some skills that I have and some skills I need to learn.
 
 There are lots of article about software engineering, and I find that this [article](https://www.institutedata.com/us/blog/10-must-have-software-engineering-skills/) created by _institutedata_ on  **NOVEMBER 9, 2023** tells the essential skills to become a software engineer.
 
