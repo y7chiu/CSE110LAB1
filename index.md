@@ -33,3 +33,5 @@ I always remembered that my high school teacher said:
 > Student must be active to learn new stuffs and must have the postive mind to do whatever you like.
 
 After I enrolled UCSD, I truely learned a lot about hardware and software skills, and I realized that software skills have more problems I face than the hardware skills. For example, coding is not my favor. I need to learn for a long period to get it fluent. However, I think my skills above is important in the group when we have a group project to do in the future. As a programmer sometime can be said as a person, person can be a good listener and give someone the direction of thoughts.
+
+I will learn more about how to become a software engineer in this class! Hope I will use these skills to make me suitable in future jobs after graduating!
